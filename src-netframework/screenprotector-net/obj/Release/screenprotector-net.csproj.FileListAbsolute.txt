@@ -1,0 +1,11 @@
+C:\Users\beytullahakyuz\source\repos\screenprotector-net\screenprotector-net\obj\Release\screenprotector-net.csproj.AssemblyReference.cache
+C:\Users\beytullahakyuz\source\repos\screenprotector-net\screenprotector-net\obj\Release\screenprotector_net.frmBlocker.resources
+C:\Users\beytullahakyuz\source\repos\screenprotector-net\screenprotector-net\obj\Release\screenprotector_net.frmMain.resources
+C:\Users\beytullahakyuz\source\repos\screenprotector-net\screenprotector-net\obj\Release\screenprotector_net.Properties.Resources.resources
+C:\Users\beytullahakyuz\source\repos\screenprotector-net\screenprotector-net\obj\Release\screenprotector-net.csproj.GenerateResource.cache
+C:\Users\beytullahakyuz\source\repos\screenprotector-net\screenprotector-net\obj\Release\screenprotector-net.csproj.CoreCompileInputs.cache
+C:\Users\beytullahakyuz\source\repos\screenprotector-net\screenprotector-net\bin\Release\screenprotector-net.exe.config
+C:\Users\beytullahakyuz\source\repos\screenprotector-net\screenprotector-net\bin\Release\screenprotector-net.exe
+C:\Users\beytullahakyuz\source\repos\screenprotector-net\screenprotector-net\bin\Release\screenprotector-net.pdb
+C:\Users\beytullahakyuz\source\repos\screenprotector-net\screenprotector-net\obj\Release\screenprotector-net.exe
+C:\Users\beytullahakyuz\source\repos\screenprotector-net\screenprotector-net\obj\Release\screenprotector-net.pdb

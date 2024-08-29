@@ -1,0 +1,17 @@
+C:\Users\beytullahakyuz\source\repos\screenprotector\screenprotector\bin\Release\net8.0-windows\screenprotector.exe
+C:\Users\beytullahakyuz\source\repos\screenprotector\screenprotector\bin\Release\net8.0-windows\screenprotector.dll
+C:\Users\beytullahakyuz\source\repos\screenprotector\screenprotector\bin\Release\net8.0-windows\screenprotector.deps.json
+C:\Users\beytullahakyuz\source\repos\screenprotector\screenprotector\bin\Release\net8.0-windows\screenprotector.runtimeconfig.json
+C:\Users\beytullahakyuz\source\repos\screenprotector\screenprotector\bin\Release\net8.0-windows\screenprotector.pdb
+C:\Users\beytullahakyuz\source\repos\screenprotector\screenprotector\obj\Release\net8.0-windows\screenprotector.frmBlocker.resources
+C:\Users\beytullahakyuz\source\repos\screenprotector\screenprotector\obj\Release\net8.0-windows\screenprotector.frmMain.resources
+C:\Users\beytullahakyuz\source\repos\screenprotector\screenprotector\obj\Release\net8.0-windows\screenprotector.csproj.GenerateResource.cache
+C:\Users\beytullahakyuz\source\repos\screenprotector\screenprotector\obj\Release\net8.0-windows\screenprotector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beytullahakyuz\source\repos\screenprotector\screenprotector\obj\Release\net8.0-windows\screenprotector.AssemblyInfoInputs.cache
+C:\Users\beytullahakyuz\source\repos\screenprotector\screenprotector\obj\Release\net8.0-windows\screenprotector.AssemblyInfo.cs
+C:\Users\beytullahakyuz\source\repos\screenprotector\screenprotector\obj\Release\net8.0-windows\screenprotector.csproj.CoreCompileInputs.cache
+C:\Users\beytullahakyuz\source\repos\screenprotector\screenprotector\obj\Release\net8.0-windows\screenprotector.dll
+C:\Users\beytullahakyuz\source\repos\screenprotector\screenprotector\obj\Release\net8.0-windows\refint\screenprotector.dll
+C:\Users\beytullahakyuz\source\repos\screenprotector\screenprotector\obj\Release\net8.0-windows\screenprotector.pdb
+C:\Users\beytullahakyuz\source\repos\screenprotector\screenprotector\obj\Release\net8.0-windows\screenprotector.genruntimeconfig.cache
+C:\Users\beytullahakyuz\source\repos\screenprotector\screenprotector\obj\Release\net8.0-windows\ref\screenprotector.dll

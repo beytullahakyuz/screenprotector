@@ -1,0 +1,7 @@
+C:\Users\beytullahakyuz\source\repos\screenprotector\screenprotector\obj\Release\net5.0-windows7.0\screenprotector.frmBlocker.resources
+C:\Users\beytullahakyuz\source\repos\screenprotector\screenprotector\obj\Release\net5.0-windows7.0\screenprotector.frmMain.resources
+C:\Users\beytullahakyuz\source\repos\screenprotector\screenprotector\obj\Release\net5.0-windows7.0\screenprotector.csproj.GenerateResource.cache
+C:\Users\beytullahakyuz\source\repos\screenprotector\screenprotector\obj\Release\net5.0-windows7.0\screenprotector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beytullahakyuz\source\repos\screenprotector\screenprotector\obj\Release\net5.0-windows7.0\screenprotector.AssemblyInfoInputs.cache
+C:\Users\beytullahakyuz\source\repos\screenprotector\screenprotector\obj\Release\net5.0-windows7.0\screenprotector.AssemblyInfo.cs
+C:\Users\beytullahakyuz\source\repos\screenprotector\screenprotector\obj\Release\net5.0-windows7.0\screenprotector.csproj.CoreCompileInputs.cache
