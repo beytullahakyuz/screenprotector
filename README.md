@@ -7,4 +7,4 @@ To stop this app, kill it from the task manager.
 
 You should watch to video.
 
-[![Watch the video](https://github.com/beytullahakyuz/screenprotector/tree/screens/screenprotector.png)](https://youtu.be/TSzgHoAs4cI)
+[![Watch the video](https://github.com/beytullahakyuz/screenprotector/tree/main/screens/screenprotector.png)](https://youtu.be/TSzgHoAs4cI)
