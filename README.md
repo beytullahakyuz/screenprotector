@@ -8,7 +8,7 @@ Bu uygulama sistemlerden kullanıcı izni olmadan yapılabilecek ekran görünt�
 
 ## Documents / Döküman
 
-[Screen Protector Information ve Documents / Screen Protector Bilgilendirme ve Dökümanlar](https://beytullahakyuz.gitbook.io/projects/screen-protector)
+[Screen Protector Information and Documents / Screen Protector Bilgilendirme ve Dökümanlar](https://beytullahakyuz.gitbook.io/projects/screen-protector)
 
 ## Screenshots | Ekran Görüntüleri
 
