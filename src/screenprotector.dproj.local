@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.083,C:\Users\devsystem\Desktop\screenprotector\Project1.dproj=C:\Users\devsystem\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.142,=C:\Users\devsystem\Desktop\screenprotector\uFunctions.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.319,=C:\Users\devsystem\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.753,=C:\Users\devsystem\Desktop\screenprotector\sprotector\Win64\Release\sprotector.exe</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.979,C:\Users\devsystem\Desktop\screenprotector\Unit2.fmx=C:\Users\devsystem\Desktop\screenprotector\pages\uHelp.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.953,=C:\Users\devsystem\Desktop\screenprotector\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.979,C:\Users\devsystem\Desktop\screenprotector\Unit2.pas=C:\Users\devsystem\Desktop\screenprotector\pages\uHelp.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.752,=C:\Users\devsystem\Desktop\screenprotector\Win64\Release\sprotector.exe</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.282,=C:\Users\devsystem\Desktop\screenprotector\uLang.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.834,C:\Users\devsystem\Desktop\screenprotector\Unit1.fmx=C:\Users\devsystem\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.549,=C:\Users\devsystem\Desktop\screenprotector\uMain.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.049,C:\Users\devsystem\Desktop\screenprotector\Unit1.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.834,C:\Users\devsystem\Desktop\screenprotector\Unit1.pas=C:\Users\devsystem\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.082,C:\Users\devsystem\Desktop\screenprotector\screenprotector.dproj=C:\Users\devsystem\Desktop\screenprotector\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
